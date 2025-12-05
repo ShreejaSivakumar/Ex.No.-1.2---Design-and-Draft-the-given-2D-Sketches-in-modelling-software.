@@ -40,9 +40,62 @@
  <img width="921" height="654" alt="Screenshot 2025-12-05 100704" src="https://github.com/user-attachments/assets/f327d749-760e-4b6a-8757-332df4636c66" />
 
 
-** DEVELOPED BY : SHREEJA R S **
-** REFERENCE.NO : 25017561 **
 
 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
+
+
+
+
+DEVELOPED BY : SHREEJA R S 
+REFERENCE.NO : 25017561 
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
