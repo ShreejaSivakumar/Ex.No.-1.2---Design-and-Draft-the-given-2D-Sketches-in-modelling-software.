@@ -1,5 +1,5 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+**DATE : 05/12/2025**
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -48,8 +48,10 @@
 
 
 
-DEVELOPED BY : SHREEJA R S 
-REFERENCE.NO : 25017561 
+**DEVELOPED BY : SHREEJA R S** 
+
+
+**REFERENCE.NO : 25017561**
 .
 .
 .
